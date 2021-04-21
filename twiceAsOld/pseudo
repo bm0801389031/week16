@@ -1,0 +1,21 @@
+input
+father years and son years, and get how many years ago
+the father was twice as old as the son
+or in how many years he will be twice as old
+
+function
+
+
+output
+36 father 7 son  22 result
+
+
+
+
+1. //function statement named twiceAsOld with parameter dadYearsOld
+//and sonYearsOld
+
+
+2.  //return math.abs which returns the absolute value of a number
+//so if i have a negative it returns it positive
+//dadYearsOld minus 2 times sonYearsOld
