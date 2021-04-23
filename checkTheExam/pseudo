@@ -1,0 +1,47 @@
+input 
+two arrays of answers for a test, compare correct array 
+with incorect array, give 4 points for each correct answer
+and subtract a point for each incorrect answer and 0 points
+for each blank answer
+
+function
+
+
+output
+["a", "a", "b", "b"], ["a", "c", "b", "d"]) → 6
+
+
+
+1. //function statement named checkExam with parameters
+//array1 and array2
+
+2.//set a variable named score to zero
+
+3.//for loop initialization variable i assigned to zero; condition
+//i is less than array1.length; final expression i plus plus
+
+4.//statement//
+//if array1 index i equal to array2 index i 
+
+
+5.//score plus equals 4 [ie score variable equals 
+			//score plus 4]
+
+6. //else if [move on to next string if previous does not apply]
+		// if array2 index i equals empty string
+
+7.//score plus equals 0[ie score variable equals score plus 0]
+
+8.//else[ie move on to the next string if prev does not apply]
+
+9. //score minus equals 1
+//[[ie score variable equals score minus one]]
+
+10.	//if conditional statement with score less than 0 condition
+
+11. //statement to be executed if condition is truthy 
+		//score equal zero
+
+12.	//return score
+
+
