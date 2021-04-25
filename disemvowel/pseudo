@@ -1,0 +1,16 @@
+input
+revove all the vowels from the words
+
+function
+
+
+
+output
+the the in = th th n
+
+
+1. //function statement named disemvowel with parameter str
+
+2. //return replace with str as property regular expression
+//that looks for words aeiou globally and incasesensitive
+//replaced with a blank
